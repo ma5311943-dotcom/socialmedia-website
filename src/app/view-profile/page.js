@@ -33,8 +33,6 @@ function ViewProfileContent() {
             const userInfoStr = localStorage.getItem('userInfo');
             const loggedInUser = userInfoStr ? JSON.parse(userInfoStr) : null;
             setCurrentUser(loggedInUser);
-
-            // Get ID from URL or fallback to current logged in user
             let userId = searchParams.get('id');
             if (!userId && loggedInUser) {
                 userId = loggedInUser._id;
