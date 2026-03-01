@@ -1,0 +1,81 @@
+1. Authentication & Users
+Signup / Login / Logout – own auth system for users
+User Roles – User & Admin
+Edit Profile – name, bio, profile pic, avatar
+Profile Privacy – public or private
+
+2. User Profiles
+View Profiles – see other users’ info and posts
+Follow / Unfollow – control whose content you see
+
+Activity Log – track recent posts and interactions
+
+Profile Verification Badge – optional verified status
+
+3. Posts & Stories
+
+Create Posts – text, images, videos
+
+Upload Stories – ephemeral content (disappear in 24h)
+
+Post Actions – like, comment, share, download
+
+Story Reactions – emoji responses
+
+Multiple Images per Post – image carousel
+
+Media Compression & Optimization – fast loading
+
+4. Interactions
+
+Like / Comment / Share Posts – social engagement
+
+Save / Bookmark Posts – personal collection
+
+Report Posts – report inappropriate content
+
+Block Users – restrict unwanted interactions
+
+5. Real-Time Messaging (Socket.IO)
+
+User-to-User Chat – text, images, videos
+
+User-to-Admin / Support Chat – for help or complaints
+
+Typing Indicator – shows when someone is typing
+
+Read Receipts – delivered & seen status
+
+Group Chat (Optional) – chat with multiple users
+
+6. Notifications & Updates
+
+Real-Time Notifications – likes, comments, follows
+
+Optional Email Notifications – for important updates
+
+Explore Feed & Trending Hashtags – discover content
+
+7. Media & UI Enhancements
+
+Video Autoplay & Mute/Unmute – improved UX
+
+Media Download Option – save images/videos
+
+Profile Avatars / Custom Images – personalization
+
+Search – find users, posts, hashtags
+
+8. Admin Panel
+
+View All Users / Posts / Stories – full control
+
+Moderate Content – posts, comments, reports
+
+Analytics / Charts – active users, trending posts, engagement
+
+Platform Controls – notifications, settings, moderation
+
+9. User Analytics (Optional)
+
+Personal Activity Stats – posts, likes, comments
